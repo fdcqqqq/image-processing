@@ -1,0 +1,2 @@
+train_vgg16_dog.py:vgg16模型fine-tuning后的训练代码部分
+test_vgg16_dog.py:测试代码部分
